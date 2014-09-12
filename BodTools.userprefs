@@ -1,0 +1,21 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="BodEditor/Main.cs">
+    <Files>
+      <File FileName="BodLib/Program.cs" Line="1" Column="1" />
+      <File FileName="BodExtractor/Program.cs" Line="14" Column="14" />
+      <File FileName="BodLib/BodDirectoryCounter.cs" Line="17" Column="17" />
+      <File FileName="BodLib/BodDirectoryEntry.cs" Line="17" Column="17" />
+      <File FileName="BodLib/BodFile.cs" Line="5" Column="5" />
+      <File FileName="BodLib/BodEntry.cs" Line="1" Column="1" />
+      <File FileName="BodEditor/Properties/AssemblyInfo.cs" Line="37" Column="37" />
+      <File FileName="BodEditor/Main.cs" Line="27" Column="27" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/alandoherty/Projects/BodTools/BodExtractor/Program.cs" line="29" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
